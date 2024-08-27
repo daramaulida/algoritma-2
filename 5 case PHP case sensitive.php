@@ -26,7 +26,7 @@ echo
 "<p>Nama Panggilan Saya Adalah $NAMA",
 "<p>Umur Saya Adalah $umur",
 "<p>Tempat Lahir Saya $tempatlahir",
-"<p>Hobi Saya Adalah $hobi";
+"<p>Hobi Saya Adalah $hobi",
 "<p>Nama:Dara Maulida";
 
 ?>
