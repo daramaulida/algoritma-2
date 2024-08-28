@@ -53,8 +53,9 @@ array("Teh");
 array("Jus Alpukat");
 echo $minuman ="<p>Poci";
 echo $minuman ="<p>Teh";
-echo $minuman ="<p>Jus Alpukat";
+echo $minuman ="<p>Jus Alpukat<br>";
 
 // Tipe data NULL adalah tipe data yang menyatakan kosong.
 $nama = NULL;
 echo "Nama $nama<br>";
+echo "Nama:Dara Maulida<br>";
